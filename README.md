@@ -1,11 +1,35 @@
-# React-Portfolio made with love and with beautiful UI.
+# AJ-DevPortfolio
 
-Live Preview at : https://myself.now.sh/
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    
 
-### Hi there 👋 I am Sachin, a full stack web and app developer. I love to build new things that excites me a lot.
+## Table of Contents
 
-# buy-me-a-coffee
-Liked some of my work? Buy me a coffee (or more likely a beer) as it motivates me to build new things 😊
+-[Description](#description)  
+-[Installation](#installation)  
+-[Usage](##usage)  
+-[Contributing](#contributing)  
+-[Tests](#tests)  
+-[Deployment](#deployment)  
+-[Questions](#questions)  
 
-<a href="https://www.buymeacoffee.com/sachinm" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+## Description
+
+🔎 Hello, my name is Alfredo J. Figueroa and this is my portfolio. You will find a basic section to get to know me and a bit about my background. There is also a section with samples of my work and ways to contact me, including my resume. Enjoy!
+
+## Mock-UP
+
+![Alfredo J Figueroa's portfolio and profile picture on a network lines background](./public/images/portfolio-home.png)
+
+## Deployment
+
+🚀 Click [here](https://github.com/AJFigueroa83/My-React-Portfolio) to view the repo.  
+🚀 Click [here](https://ajfigueroa83.github.io/My-React-Portfolio/) to view the deployed site.
+
+## Questions
+
+Please feel free to contact me with any questions via email at: alfredojfigueroa@gmail.com  
+Or reach out to me on GitHub, [AJFigueroa83](https://github.com/AJFigueroa83)
 
