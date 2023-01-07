@@ -6,11 +6,8 @@
 
 ## Table of Contents
 
--[Description](#description)  
--[Installation](#installation)  
--[Usage](##usage)  
--[Contributing](#contributing)  
--[Tests](#tests)  
+-[Description](#description)   
+-[Mock-UP](#mock-up)  
 -[Deployment](#deployment)  
 -[Questions](#questions)  
 
