@@ -34,7 +34,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Current Work  <span>March 2021-Present</span></h2>
-                                                    <p>I am currently working as a <b>Restaurant General Manager</b> at <b>The Grove in Savannah, GA</b>.</p>
+                                                    <p>I am currently working as a <b>Restaurant General Manager</b> at <b>The Grove</b> in Savannah, GA.</p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
