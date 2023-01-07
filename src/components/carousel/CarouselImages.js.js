@@ -19,7 +19,7 @@ class CarouselImages extends Component {
                         <img className={classes.image} src={Hello} alt="myImage" />
                         <div className={classes.h1}>
                             <h1 >I'm Alfredo</h1>
-                            <a href="https://docs.google.com/document/d/1qVJobsYyBXTOuK2lpQOJhI1Ta__ghH7_buDz3tF6WsQ/edit?usp=sharing" rel="opener noreferrer" target="_blank">VIEW CV   <FaArrowCircleDown /></a>
+                            <a href="https://docs.google.com/document/d/1xjB0CclLJLgp1cZq-WFxZj19GFM82IFp/edit?usp=sharing&ouid=107803490169129454110&rtpof=true&sd=true" rel="opener noreferrer" target="_blank">VIEW RESUMÉ <FaArrowCircleDown /></a>
                         </div>
                     </div>
                     <div className={classes.image_container}>
