@@ -21,7 +21,7 @@
 
 ## Mock-UP
 
-![Alfredo J Figueroa's portfolio and profile picture on a network lines background](./public/images/portfolio-home.png)
+![Alfredo J Figueroa's portfolio and profile picture](./src/components/images/Alfredo%20J.%20Figueroa.png)
 
 ## Deployment
 
