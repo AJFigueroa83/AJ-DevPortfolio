@@ -9,24 +9,24 @@ class Interest extends Component {
       <div className={classes.box} id="interest">
         <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
           <span className={classes.head}>WHAT I DO?</span>
-          <h2 className={classes.heading}>HERE ARE SOME OF MY EXPERTISE</h2>
+          <h2 className={classes.heading}>HERE ARE SOME OF MY FOCUS POINTS</h2>
           <div className={classes.Interest}>
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.web}>
-                <h3>APP Develpoment</h3>
-                <p>I also have knowledge of flutter development and have experience in building android and IOS applications. I also have live app published on Google Play Store. </p>
+                <h3>Personal Development</h3>
+                <p>I am currently expanding my knowledge by learning Swift programming. </p>
               </div>
             </ScrollAnimation>
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.app}>
-                <h3>Web Develpoment</h3>
+                <h3>Web Develpment</h3>
                 <p>I am a full stack web developer(MERN) and build websites using HTML, CSS, Javascript, ReactJs.<br /> I have also good grasp on Node and NoSQL(MongoDb)</p>
               </div>
             </ScrollAnimation>
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.other}>
                 <h3>Other's Interest</h3>
-                <p>I also have decent hand in developing website with WordPress.<br />C++, Github are my other fields of interest. Currently, I am investing my free time in Web3.js </p>
+                <p>I am interested in learning new technologies and collaborating in new projects that will challenge me. I also enjoy travelling and learning about new cultures.</p>
               </div>
             </ScrollAnimation>
           </div>

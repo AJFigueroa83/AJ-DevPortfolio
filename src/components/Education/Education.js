@@ -23,8 +23,8 @@ class Education extends Component {
                                                     <MdWork />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Experience  <span>July(2021)-Present</span></h2>
-                                                    <p>I am currently working as <b>Software Developer Engineer</b> at <a target="_blank" href="https://www.springworks.in/"><b>Springworks</b></a> <i>(previously Springrole and Springworks is a HR technology startup that is building tools and products to simplify recruiting and help organizations engage and retain their employees)</i> and boosting my professional skills.</p>
+                                                    <h2 >Current Work  <span>July(2021)-Present</span></h2>
+                                                    <p>I am currently working as a <b>Restaurant General Manager</b> at <b>The Grove in Savannah, GA</b>.</p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -34,19 +34,19 @@ class Education extends Component {
                                                     <MdSchool />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Undergraduation at SLIET <span>2017-2021</span></h2>
-                                                    <p>I completed my undergraduation in CSE (Computer Science and Engineering) from <a href='http://sliet.ac.in/'>SLIET</a> with overall 82.71%.</p>
+                                                    <h2 >Georgia Institute of Technology <span>2022</span></h2>
+                                                    <p>I completed the Full-Stack Coding Bootcamp <a href='https://www.gatech.edu/'>GA Tech</a>.</p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
                                         <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
                                             <article className={classes.timeline_entry}>
                                                 <div className={`${classes.timeline_icon} ${classes.timeline_icon_2}`} >
-                                                    <FaSchool />
+                                                    <MdSchool />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Higher Education  <span>2014-2016</span></h2>
-                                                    <p>I have completed my higher education from HKIS with major subjects as Physics,Chemistry & Maths with 85% merit in CBSE board. </p>
+                                                    <h2 >Florida International University  <span>2011-2013</span></h2>
+                                                    <p>I completed my Master's degree in Hospitality Management </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -54,11 +54,11 @@ class Education extends Component {
                                         <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
                                             <article>
                                                 <div className={`${classes.timeline_icon} ${classes.timeline_icon_4}`} >
-                                                    <MdWork />
+                                                    <MdSchool />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Internship</h2>
-                                                    <p>Completed one month Internship in React Js with Internity Foundation</p>
+                                                    <h2 >Universidad de Puerto Rico <span>2001-2004</span></h2>
+                                                    <p>Completed bachelor's degree in Hotel & Restaurant Administration.</p>
                                                 </div>
                                                 <div className={classes.timeline_entry_inner}><div className={classes.timeline_icon_3 || classes.color_none}></div></div>
                                             </article>

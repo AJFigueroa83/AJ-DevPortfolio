@@ -5,7 +5,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import "animate.css/animate.min.css";
 import { GoProject } from 'react-icons/go'
 import { FaArrowCircleDown } from 'react-icons/fa'
-import Hello from '../images/hello-iphone.jpeg'
+import Hello from '../images/hi-detail.jpg'
 import Bulbs from '../images/idea-bulbs.jpeg'
 // import laptop1 from '../images/laptop1.jpg'
 
@@ -25,7 +25,7 @@ class CarouselImages extends Component {
                     <div className={classes.image_container}>
                         <img className={classes.image} src={Bulbs} alt="four light bulbs, one has multiple creative images within" />
                         <div className={classes.h2}>
-                            <h1> I love building</h1>
+                            <h1> I love creating new</h1>
                             <h1>THINGS!!</h1>
                             <a href="https://github.com/AJFigueroa83" rel="opener noreferrer" target="_blank">VIEW PROJECTS   <GoProject /></a>
                         </div>
