@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './Sidebar.css';
 import { HashLink as Link } from 'react-router-hash-link';
-import { FiExternalLink } from 'react-icons/fi';
 import logo from '../images/profilepic.jpeg'
 
 class Sidebar extends Component {
@@ -14,7 +13,7 @@ class Sidebar extends Component {
                 <div style={{ color: 'black', fontWeight: 'bold' }} className=""> # coding </div>
                 <h1><Link smooth to="/#start" className="h1_links">Alfredo J. Figueroa</Link></h1>
 
-                <img src={logo} />
+                <img src={logo} alt="profilepic" />
                 <p style={{ color: 'black', fontWeight: 'bold' }} className="gmail"><a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftvBffjPmxWxvfHWRHWnhTbpQgPxBxvkcnPpFpFqbhrXMCHXSJTsCXCVLsQzgRcVLpnPL" rel="opener noreferrer" target="_blank" className="fa fa-envelope"></a> alfredojfigueroa@gmail.com </p>
 
                 <ul className="sidebar-nav">

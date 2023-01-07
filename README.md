@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
--[Description](#description)   
+-[Description](#description) 
 -[Mock-UP](#mock-up)  
 -[Deployment](#deployment)  
 -[Questions](#questions)  
