@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/AJ-DevPortfolio/static/css/main.da58c462.chunk.css",
-    "main.js": "/AJ-DevPortfolio/static/js/main.76757055.chunk.js",
-    "main.js.map": "/AJ-DevPortfolio/static/js/main.76757055.chunk.js.map",
+    "main.js": "/AJ-DevPortfolio/static/js/main.c7a14422.chunk.js",
+    "main.js.map": "/AJ-DevPortfolio/static/js/main.c7a14422.chunk.js.map",
     "runtime-main.js": "/AJ-DevPortfolio/static/js/runtime-main.a0fa51f5.js",
     "runtime-main.js.map": "/AJ-DevPortfolio/static/js/runtime-main.a0fa51f5.js.map",
     "static/css/2.f00fa05b.chunk.css": "/AJ-DevPortfolio/static/css/2.f00fa05b.chunk.css",
-    "static/js/2.bacfbb47.chunk.js": "/AJ-DevPortfolio/static/js/2.bacfbb47.chunk.js",
-    "static/js/2.bacfbb47.chunk.js.map": "/AJ-DevPortfolio/static/js/2.bacfbb47.chunk.js.map",
+    "static/js/2.6ddaeb32.chunk.js": "/AJ-DevPortfolio/static/js/2.6ddaeb32.chunk.js",
+    "static/js/2.6ddaeb32.chunk.js.map": "/AJ-DevPortfolio/static/js/2.6ddaeb32.chunk.js.map",
     "index.html": "/AJ-DevPortfolio/index.html",
-    "precache-manifest.beb4daa63c8dbd79a29cdff3f180df99.js": "/AJ-DevPortfolio/precache-manifest.beb4daa63c8dbd79a29cdff3f180df99.js",
+    "precache-manifest.cfd4d8bf318cfce7c7019393c27c48db.js": "/AJ-DevPortfolio/precache-manifest.cfd4d8bf318cfce7c7019393c27c48db.js",
     "service-worker.js": "/AJ-DevPortfolio/service-worker.js",
     "static/css/2.f00fa05b.chunk.css.map": "/AJ-DevPortfolio/static/css/2.f00fa05b.chunk.css.map",
     "static/css/main.da58c462.chunk.css.map": "/AJ-DevPortfolio/static/css/main.da58c462.chunk.css.map",
-    "static/js/2.bacfbb47.chunk.js.LICENSE.txt": "/AJ-DevPortfolio/static/js/2.bacfbb47.chunk.js.LICENSE.txt",
+    "static/js/2.6ddaeb32.chunk.js.LICENSE.txt": "/AJ-DevPortfolio/static/js/2.6ddaeb32.chunk.js.LICENSE.txt",
     "static/media/hi-detail.jpg": "/AJ-DevPortfolio/static/media/hi-detail.4350600a.jpg",
     "static/media/idea-bulbs.jpeg": "/AJ-DevPortfolio/static/media/idea-bulbs.b32a1a09.jpeg",
     "static/media/profilepic.jpeg": "/AJ-DevPortfolio/static/media/profilepic.6a1b7690.jpeg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.a0fa51f5.js",
     "static/css/2.f00fa05b.chunk.css",
-    "static/js/2.bacfbb47.chunk.js",
+    "static/js/2.6ddaeb32.chunk.js",
     "static/css/main.da58c462.chunk.css",
-    "static/js/main.76757055.chunk.js"
+    "static/js/main.c7a14422.chunk.js"
   ]
 }
