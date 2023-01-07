@@ -22,7 +22,18 @@ class Education extends Component {
                                                     <MdWork />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Current Work  <span>July(2021)-Present</span></h2>
+                                                    <h2 >Looking Into The Future  <span>...</span></h2>
+                                                    <p>Excited to start working with an innovative and collaborative team to continue to develop my skills and learn new technoligies. I look forward to the possible connections to collaborate together.</p>
+                                                </div>
+                                            </article>
+                                        </ScrollAnimation>
+                                        <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
+                                            <article className={classes.timeline_entry}>
+                                                <div className={`${classes.timeline_icon} ${classes.timeline_icon_5}`} >
+                                                    <MdWork />
+                                                </div>
+                                                <div className={classes.label}>
+                                                    <h2 >Current Work  <span>March 2021-Present</span></h2>
                                                     <p>I am currently working as a <b>Restaurant General Manager</b> at <b>The Grove in Savannah, GA</b>.</p>
                                                 </div>
                                             </article>
@@ -34,7 +45,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Georgia Institute of Technology <span>2022</span></h2>
-                                                    <p>I completed the Full-Stack Coding Bootcamp <a href='https://www.gatech.edu/'>GA Tech</a>.</p>
+                                                    <p>I completed the Full-Stack Coding Bootcamp. <a href='https://www.gatech.edu/'>GA Tech</a>.</p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -45,7 +56,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Florida International University  <span>2011-2013</span></h2>
-                                                    <p>I completed my Master's degree in Hospitality Management </p>
+                                                    <p>I completed my Master's degree in Hospitality Management. </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -57,7 +68,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Universidad de Puerto Rico <span>2001-2004</span></h2>
-                                                    <p>Completed bachelor's degree in Hotel & Restaurant Administration.</p>
+                                                    <p>I completed bachelor's degree in Hotel & Restaurant Administration.</p>
                                                 </div>
                                                 <div className={classes.timeline_entry_inner}><div className={classes.timeline_icon_3 || classes.color_none}></div></div>
                                             </article>
