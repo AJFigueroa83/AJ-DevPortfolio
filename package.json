@@ -1,5 +1,6 @@
 {
-  "name": "alfredo",
+  "homepage": "https://ajfigueroa83.github.io/AJ-DevPortfolio",
+  "name": "alfredo-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,5 +41,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "concurrently": "^7.3.0",
+    "gh-pages": "^4.0.0"
   }
 }
