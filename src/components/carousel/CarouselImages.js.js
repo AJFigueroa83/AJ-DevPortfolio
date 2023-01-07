@@ -5,9 +5,9 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import "animate.css/animate.min.css";
 import { GoProject } from 'react-icons/go'
 import { FaArrowCircleDown } from 'react-icons/fa'
-import Hello from '../images/Hello.jpg'
-import Pencil from '../images/Pencil.jpg'
-import laptop1 from '../images/laptop1.jpg'
+import Hello from '../images/hello-iphone.jpeg'
+import Bulbs from '../images/idea-bulbs.jpeg'
+// import laptop1 from '../images/laptop1.jpg'
 
 class CarouselImages extends Component {
     render() {
@@ -18,16 +18,16 @@ class CarouselImages extends Component {
                     <div className={classes.image_container} >
                         <img className={classes.image} src={Hello} alt="myImage" />
                         <div className={classes.h1}>
-                            <h1 >I'm AJ</h1>
+                            <h1 >I'm Alfredo</h1>
                             <a href="https://docs.google.com/document/d/1qVJobsYyBXTOuK2lpQOJhI1Ta__ghH7_buDz3tF6WsQ/edit?usp=sharing" rel="opener noreferrer" target="_blank">VIEW CV   <FaArrowCircleDown /></a>
                         </div>
                     </div>
                     <div className={classes.image_container}>
-                        <img className={classes.image} src={Pencil} alt="myImage" />
+                        <img className={classes.image} src={Bulbs} alt="four light bulbs, one has multiple creative images within" />
                         <div className={classes.h2}>
                             <h1> I love building</h1>
                             <h1>THINGS!!</h1>
-                            <a href="https://https://github.com/AJFigueroa83" rel="opener noreferrer" target="_blank">VIEW PROJECTS   <GoProject /></a>
+                            <a href="https://github.com/AJFigueroa83" rel="opener noreferrer" target="_blank">VIEW PROJECTS   <GoProject /></a>
                         </div>
                     </div>
                     {/* <div className={classes.image_container}>
