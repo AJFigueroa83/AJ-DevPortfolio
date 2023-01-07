@@ -23,7 +23,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Looking Into The Future  <span>...</span></h2>
-                                                    <p>Excited to start working with an innovative and collaborative team to continue to develop my skills and learn new technoligies. I look forward to the possible connections to collaborate together.</p>
+                                                    <p>Excited to start working with an innovative and collaborative team to continue to develop my skills and learn new technologies. I look forward to the possible connections to collaborate together.</p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
