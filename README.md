@@ -25,8 +25,8 @@
 
 ## Deployment
 
-🚀 Click [here](https://github.com/AJFigueroa83/My-React-Portfolio) to view the repo.  
-🚀 Click [here](https://ajfigueroa83.github.io/My-React-Portfolio/) to view the deployed site.
+🚀 Click [here](https://github.com/AJFigueroa83/AJ-DevPortfolio) to view the repo.  
+🚀 Click [here](https://ajfigueroa83.github.io/AJ-DevPortfolio/) to view the deployed site.
 
 ## Questions
 
