@@ -18,8 +18,8 @@ class CarouselImages extends Component {
                     <div className={classes.image_container} >
                         <img className={classes.image} src={Hello} alt="myImage" />
                         <div className={classes.h1}>
-                            <h1 >I'm Sachin</h1>
-                            <a href="https://drive.google.com/file/d/1XwQYRl06QtuNPT8v4fHkbajk1ll9LTbi/view?usp=sharing" rel="opener noreferrer" target="_blank">VIEW CV   <FaArrowCircleDown /></a>
+                            <h1 >I'm AJ</h1>
+                            <a href="https://docs.google.com/document/d/1qVJobsYyBXTOuK2lpQOJhI1Ta__ghH7_buDz3tF6WsQ/edit?usp=sharing" rel="opener noreferrer" target="_blank">VIEW CV   <FaArrowCircleDown /></a>
                         </div>
                     </div>
                     <div className={classes.image_container}>
@@ -27,7 +27,7 @@ class CarouselImages extends Component {
                         <div className={classes.h2}>
                             <h1> I love building</h1>
                             <h1>THINGS!!</h1>
-                            <a href="https://github.com/mittalsam98" rel="opener noreferrer" target="_blank">VIEW PROJECTS   <GoProject /></a>
+                            <a href="https://https://github.com/AJFigueroa83" rel="opener noreferrer" target="_blank">VIEW PROJECTS   <GoProject /></a>
                         </div>
                     </div>
                     {/* <div className={classes.image_container}>
